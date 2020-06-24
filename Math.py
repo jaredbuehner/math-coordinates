@@ -1,9 +1,3 @@
-# Math.py
-# Author: Jared Buehner
-# Class: SDEV 300
-# Professor: Muhammad Khan
-# Date: 06/01/2020
-
 # Imports.
 import math
 
